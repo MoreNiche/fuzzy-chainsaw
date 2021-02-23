@@ -1,0 +1,17 @@
+{
+    "name": "moreniche/fuzzy-chainsaw",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "erme2",
+            "email": "me@erme2.com"
+        }
+    ],
+    "require": {
+        "php": "^7.4|^8.0",
+        "ext-json": "*",
+        "symfony/polyfill-uuid": "^1.22",
+        "guzzlehttp/guzzle": "^7.2"
+    }
+}
